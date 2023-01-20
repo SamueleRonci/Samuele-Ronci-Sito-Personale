@@ -11,7 +11,7 @@ body{
 
 /*main section*/
 .main{
-  height: 100vh;
+  ;
   width: 100%;
   /*background-color:#392959 ; / *viola*/
   background-image: url("imgs/main.gif");
@@ -82,7 +82,6 @@ body{
 
 /*me section*/
 .me{
-  height: 100%;
   width: 100%;
   background-color: #1D295B; / *blu
 }
@@ -113,8 +112,9 @@ body{
   margin-top: 2em;
 }
 .logoskill{
-  width:5em;
+  width:3em;
   height:auto;
+  padding: 3px;
 }
 .skills-list {
   list-style: none;
